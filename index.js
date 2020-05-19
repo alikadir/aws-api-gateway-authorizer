@@ -7,7 +7,7 @@ exports.handler = async event => {
     return allowPolicy(event.methodArn);
   } catch (err) {
     console.log('incoming event', event);
-    console.log(err);
+    console.error(err);
     return denyAllPolicy();
   }
 };
