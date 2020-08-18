@@ -1,6 +1,6 @@
 ## Before Using,
 ## You should implement following steps
-
+<br/><br/>
 
 Step 1
 <img src="https://github.com/alikadir/aws-api-gateway-authorizer/blob/master/images/Authorizers.png"/>
