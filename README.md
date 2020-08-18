@@ -1,4 +1,6 @@
-### AWS Api Gateway Authorizer Lambda Function
+## Before Using,
+## You should implement following steps
+
 
 Step 1
 <img src="https://github.com/alikadir/aws-api-gateway-authorizer/blob/master/images/Authorizers.png"/>
