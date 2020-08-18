@@ -2,8 +2,7 @@
 ## You should implement following steps
 <br/><br/>
 
-Step 1
-<img src="https://github.com/alikadir/aws-api-gateway-authorizer/blob/master/images/Authorizers.png"/>
+Step 1 <img src="https://github.com/alikadir/aws-api-gateway-authorizer/blob/master/images/Authorizers.png"/>
 
 Step 2
 <img src="https://github.com/alikadir/aws-api-gateway-authorizer/blob/master/images/AuthorizationSettings.png"/>
